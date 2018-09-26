@@ -1,0 +1,6 @@
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeParesEnUnVector\ContadorDeParesEnUnVector\obj\Debug\ContadorDeParesEnUnVector.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeParesEnUnVector\ContadorDeParesEnUnVector\bin\Debug\ContadorDeParesEnUnVector.exe.config
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeParesEnUnVector\ContadorDeParesEnUnVector\bin\Debug\ContadorDeParesEnUnVector.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeParesEnUnVector\ContadorDeParesEnUnVector\bin\Debug\ContadorDeParesEnUnVector.pdb
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeParesEnUnVector\ContadorDeParesEnUnVector\obj\Debug\ContadorDeParesEnUnVector.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeParesEnUnVector\ContadorDeParesEnUnVector\obj\Debug\ContadorDeParesEnUnVector.pdb
